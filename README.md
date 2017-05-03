@@ -1,2 +1,3 @@
 # ml4t
 Machine_Learning_for_Trading_Course_Assignments
+CS7646
